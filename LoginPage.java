@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import utils.CommonUtils;
 
 import static org.testng.Assert.assertTrue;
-
+#import static org.testng.Assert.assertTrue;
 
 public class LoginPage extends CommonUtils{
 
